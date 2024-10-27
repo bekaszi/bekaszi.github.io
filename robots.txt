@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://bekaszi.github.io/gHB/gHB.txt
